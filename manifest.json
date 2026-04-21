@@ -1,0 +1,17 @@
+{
+    "id": "org.najmtv.addon",
+    "version": "1.0.0",
+    "name": "Najm Tv",
+    "description": "إضافة Najm Tv الخاصة للأفلام والمسلسلات",
+    "logo": "https://i.imgur.com/83pLID6.png",
+    "resources": ["catalog", "meta", "stream"],
+    "types": ["movie", "series"],
+    "catalogs": [
+        {
+            "type": "movie",
+            "id": "najmtv_movies",
+            "name": "أفلام Najm Tv"
+        }
+    ],
+    "idPrefixes": ["tt"]
+}
