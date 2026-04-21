@@ -4,7 +4,7 @@
     "name": "Najm Tv",
     "description": "إضافة Najm Tv الخاصة للأفلام والمسلسلات",
     "logo": "https://i.imgur.com/83pLID6.png",
-    "resources": ["catalog", "meta", "stream"],
+    "resources": ["catalog", "stream", "meta"],
     "types": ["movie", "series"],
     "catalogs": [
         {
